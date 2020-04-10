@@ -1,0 +1,37 @@
+C:\Users\Uziel\Documents\Analisis avanzado de Software\Proyecto\Proyecto_Pagos_Eventos\Proyecto_Pagos_Eventos\bin\Debug\Proyecto_Pagos_Eventos.exe.config
+C:\Users\Uziel\Documents\Analisis avanzado de Software\Proyecto\Proyecto_Pagos_Eventos\Proyecto_Pagos_Eventos\bin\Debug\Proyecto_Pagos_Eventos.exe
+C:\Users\Uziel\Documents\Analisis avanzado de Software\Proyecto\Proyecto_Pagos_Eventos\Proyecto_Pagos_Eventos\bin\Debug\Proyecto_Pagos_Eventos.pdb
+C:\Users\Uziel\Documents\Analisis avanzado de Software\Proyecto\Proyecto_Pagos_Eventos\Proyecto_Pagos_Eventos\obj\Debug\Proyecto_Pagos_Eventos.csprojAssemblyReference.cache
+C:\Users\Uziel\Documents\Analisis avanzado de Software\Proyecto\Proyecto_Pagos_Eventos\Proyecto_Pagos_Eventos\obj\Debug\Proyecto_Pagos_Eventos.Properties.Resources.resources
+C:\Users\Uziel\Documents\Analisis avanzado de Software\Proyecto\Proyecto_Pagos_Eventos\Proyecto_Pagos_Eventos\obj\Debug\Proyecto_Pagos_Eventos.csproj.GenerateResource.cache
+C:\Users\Uziel\Documents\Analisis avanzado de Software\Proyecto\Proyecto_Pagos_Eventos\Proyecto_Pagos_Eventos\obj\Debug\Proyecto_Pagos_Eventos.exe
+C:\Users\Uziel\Documents\Analisis avanzado de Software\Proyecto\Proyecto_Pagos_Eventos\Proyecto_Pagos_Eventos\obj\Debug\Proyecto_Pagos_Eventos.pdb
+C:\Users\Uziel\Documents\Analisis avanzado de Software\Proyecto\Proyecto_Pagos_Eventos\Proyecto_Pagos_Eventos\obj\Debug\Proyecto_Pagos_Eventos.Login.resources
+C:\Users\Uziel\Documents\Analisis avanzado de Software\Proyecto\Proyecto_Pagos_Eventos\Proyecto_Pagos_Eventos\obj\Debug\Proyecto_Pagos_Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Uziel\Documents\Analisis avanzado de Software\Proyecto\Proyecto_Pagos_Eventos\Proyecto_Pagos_Eventos\obj\Debug\Proyecto_Pagos_Eventos.Form2.resources
+C:\Users\Cristopher Antonio\Documents\Proyecto\Proyecto\Proyecto_Pagos_Eventos\Proyecto_Pagos_Eventos\bin\Debug\Proyecto_Pagos_Eventos.exe.config
+C:\Users\Cristopher Antonio\Documents\Proyecto\Proyecto\Proyecto_Pagos_Eventos\Proyecto_Pagos_Eventos\bin\Debug\Proyecto_Pagos_Eventos.exe
+C:\Users\Cristopher Antonio\Documents\Proyecto\Proyecto\Proyecto_Pagos_Eventos\Proyecto_Pagos_Eventos\bin\Debug\Proyecto_Pagos_Eventos.pdb
+C:\Users\Cristopher Antonio\Documents\Proyecto\Proyecto\Proyecto_Pagos_Eventos\Proyecto_Pagos_Eventos\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Cristopher Antonio\Documents\Proyecto\Proyecto\Proyecto_Pagos_Eventos\Proyecto_Pagos_Eventos\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Cristopher Antonio\Documents\Proyecto\Proyecto\Proyecto_Pagos_Eventos\Proyecto_Pagos_Eventos\obj\Debug\Proyecto_Pagos_Eventos.csprojAssemblyReference.cache
+C:\Users\Cristopher Antonio\Documents\Proyecto\Proyecto\Proyecto_Pagos_Eventos\Proyecto_Pagos_Eventos\obj\Debug\Proyecto_Pagos_Eventos.Login.resources
+C:\Users\Cristopher Antonio\Documents\Proyecto\Proyecto\Proyecto_Pagos_Eventos\Proyecto_Pagos_Eventos\obj\Debug\Proyecto_Pagos_Eventos.Properties.Resources.resources
+C:\Users\Cristopher Antonio\Documents\Proyecto\Proyecto\Proyecto_Pagos_Eventos\Proyecto_Pagos_Eventos\obj\Debug\Proyecto_Pagos_Eventos.csproj.GenerateResource.cache
+C:\Users\Cristopher Antonio\Documents\Proyecto\Proyecto\Proyecto_Pagos_Eventos\Proyecto_Pagos_Eventos\obj\Debug\Proyecto_Pagos_Eventos.csproj.CopyComplete
+C:\Users\Cristopher Antonio\Documents\Proyecto\Proyecto\Proyecto_Pagos_Eventos\Proyecto_Pagos_Eventos\obj\Debug\Proyecto_Pagos_Eventos.exe
+C:\Users\Cristopher Antonio\Documents\Proyecto\Proyecto\Proyecto_Pagos_Eventos\Proyecto_Pagos_Eventos\obj\Debug\Proyecto_Pagos_Eventos.pdb
+C:\Users\Cristopher Antonio\Documents\Proyecto\Proyecto\Proyecto_Pagos_Eventos\Proyecto_Pagos_Eventos\obj\Debug\Proyecto_Pagos_Eventos.Menu.resources
+C:\Users\Cristopher Antonio\Documents\Bonifaz\ProyectoBarberia\ProyectoBarberia\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Cristopher Antonio\Documents\Bonifaz\ProyectoBarberia\ProyectoBarberia\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Cristopher Antonio\Documents\Bonifaz\ProyectoBarberia\ProyectoBarberia\obj\Debug\ProyectoBarberia.csprojAssemblyReference.cache
+C:\Users\Cristopher Antonio\Documents\Bonifaz\ProyectoBarberia\ProyectoBarberia\obj\Debug\Proyecto_Pagos_Eventos.Menu.resources
+C:\Users\Cristopher Antonio\Documents\Bonifaz\ProyectoBarberia\ProyectoBarberia\obj\Debug\Proyecto_Pagos_Eventos.Login.resources
+C:\Users\Cristopher Antonio\Documents\Bonifaz\ProyectoBarberia\ProyectoBarberia\obj\Debug\ProyectoBarberia.csproj.GenerateResource.cache
+C:\Users\Cristopher Antonio\Documents\Bonifaz\ProyectoBarberia\ProyectoBarberia\obj\Debug\ProyectoBarberia.csproj.CopyComplete
+C:\Users\Cristopher Antonio\Documents\Bonifaz\ProyectoBarberia\ProyectoBarberia\obj\Debug\ProyectoBarberia.Properties.Resources.resources
+C:\Users\Cristopher Antonio\Documents\Bonifaz\ProyectoBarberia\ProyectoBarberia\obj\Debug\ProyectoBarberia.exe
+C:\Users\Cristopher Antonio\Documents\Bonifaz\ProyectoBarberia\ProyectoBarberia\obj\Debug\ProyectoBarberia.pdb
+C:\Users\Cristopher Antonio\Documents\Bonifaz\ProyectoBarberia\ProyectoBarberia\bin\Debug\ProyectoBarberia.exe.config
+C:\Users\Cristopher Antonio\Documents\Bonifaz\ProyectoBarberia\ProyectoBarberia\bin\Debug\ProyectoBarberia.exe
+C:\Users\Cristopher Antonio\Documents\Bonifaz\ProyectoBarberia\ProyectoBarberia\bin\Debug\ProyectoBarberia.pdb
